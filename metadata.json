@@ -1,0 +1,5 @@
+{
+  "name": "OpenMotion AI",
+  "description": "Open-source motion transfer using MediaPipe, ControlNet, and AnimateDiff. No API keys required.",
+  "requestFramePermissions": []
+}
